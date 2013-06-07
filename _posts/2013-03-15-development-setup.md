@@ -2,6 +2,7 @@
 layout: post
 title: Development setup
 tags: [productivity]
+published: false
 ---
 
 I work exclusively in OSX now. I use slate to do windows management. At work I

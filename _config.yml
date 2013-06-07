@@ -20,6 +20,8 @@ links:
     url:          /
   - name:         GitHub
     url:          http://github.com/terryma
+  - name:         LinkedIn
+    url:          http://www.linkedin.com/in/terryma
 
 pygments:         true
 permalink:        pretty
