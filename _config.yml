@@ -1,4 +1,4 @@
-title:            coldmochi
+title:            hello
 description:
 author :
   name : Terry Ma
@@ -6,7 +6,7 @@ author :
   github : terryma
   twitter : terry_ma
   feedburner : terryma
-url:              http://coldmochi.com
+url:              http://terry.ma
 signoff:          terry
 disqus_shortname: coldmochi
 facebook_admin: 240596299303664
