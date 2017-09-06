@@ -1,5 +1,0 @@
----
-layout: post
-title: Everything is still cheap in China
----
-It&#39;s been a while since I went back to China, last time was summer of 2008 right before I started my job. Everything was cheap then, well, everything is still cheap now. &#39;Everything&#39; might be generalizing it a bit too much, if I have to be specific, I have to say that services and labor are still ridiculously cheap, but products and offerings have climbed somewhat over the years. I got a head wash, a head massage, a crazy ear waxing session (what the heck I didn&#39;t know this kind of service existed), a 20 minute upper body massage, and an incredibly professional haircut, for all 35RMB. That&#39;s less than $7 with today&#39;s xe rate. All of this took over an hour, so I honestly do not know how these guys sustain their business. Gratuity is not an adopted concept in China, and I honestly felt bad for not leaving the guys some tips, but nobody seemed to mind except me. Anyway, I just thought it&#39;s interesting enough to share.
